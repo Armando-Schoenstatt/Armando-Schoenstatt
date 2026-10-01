@@ -2,9 +2,8 @@
 
 > Software Engineering student turning curiosity into code, one commit at a time.
 
-![PUC Minas](https://img.shields.io/badge/PUC%20Minas-Software%20Engineering-0F172A?style=flat-square)
-![COTEMIG](https://img.shields.io/badge/COTEMIG-IT%20Technician%20'25-0F172A?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Open%20to%20internship-14B8A6?style=flat-square)
+![PUC Minas](https://www.pucminas.br/campus/lourdes/ensino/graduacao/Paginas/Engenharia-de-Software.aspx)
+![COTEMIG](https://cotemig.com.br)
 
 ---
 
@@ -64,6 +63,7 @@
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-armando--schoenstatt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-schoenstatt/)
+
 [![Email](https://img.shields.io/badge/Email-armandoschoenstatt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armandoschoenstatt@gmail.com)
 
 > Open to internships, collaborations and feedback. Feel free to reach out!
