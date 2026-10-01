@@ -2,8 +2,6 @@
 
 > Software Engineering student turning curiosity into code, one commit at a time.
 
-![PUC Minas](https://www.pucminas.br/campus/lourdes/ensino/graduacao/Paginas/Engenharia-de-Software.aspx)
-![COTEMIG](https://cotemig.com.br)
 
 ---
 
