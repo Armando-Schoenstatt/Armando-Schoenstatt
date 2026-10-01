@@ -1,33 +1,27 @@
-![banner](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:14B8A6&height=120&section=header&text=armando%40github%3A~%24&fontSize=38&fontColor=E2E8F0)
-
-# Armando Schoenstatt
+![banner](https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:14B8A6&height=170&section=header&text=Armando%20Schoenstatt&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20PUC%20Minas&descSize=18&descAlignY=65&descColor=E2E8F0)
 
 > Software Engineering student turning curiosity into code, one commit at a time.
 
-![PUC Minas](https://img.shields.io/badge/PUC%20Minas-Software%20Engineering-0F172A?style=flat-square&logo=bookstack&logoColor=2DD4BF)
-![COTEMIG](https://img.shields.io/badge/COTEMIG-IT%20Technician%20'25-0F172A?style=flat-square&logo=educative&logoColor=2DD4BF)
-![Status](https://img.shields.io/badge/status-open%20to%20internship-14B8A6?style=flat-square)
+![PUC Minas](https://img.shields.io/badge/PUC%20Minas-Software%20Engineering-0F172A?style=flat-square)
+![COTEMIG](https://img.shields.io/badge/COTEMIG-IT%20Technician%20'25-0F172A?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open%20to%20internship-14B8A6?style=flat-square)
 
 ---
 
-## $ whoami
+## About me
 
-```bash
-$ whoami
-armando-schoenstatt
-
-$ cat about.txt
-role       : Software Engineering student @ PUC Minas
-education  : IT Technician @ COTEMIG (2025)
-location   : Minas Gerais, Brazil
-languages  : Portuguese (native), English (in progress)
-focus      : Java, HTML, APIs, modular programming
-status     : looking for my first IT internship
-```
+| | |
+|:--|:--|
+| **Role** | Software Engineering student at PUC Minas |
+| **Education** | IT Technician, COTEMIG (2025) |
+| **Location** | Minas Gerais, Brazil |
+| **Languages** | Portuguese (native), English (in progress) |
+| **Focus** | Java, HTML, APIs and modular programming |
+| **Looking for** | My first IT internship |
 
 ---
 
-## $ ls skills/
+## Technical skills
 
 | Category | Tools |
 |:--|:--|
@@ -37,17 +31,17 @@ status     : looking for my first IT internship
 
 ---
 
-## $ ls projects/
+## Projects
 
-| Project | Stack | What it is |
+| Project | Stack | Description |
 |:--|:--|:--|
 | [**API-Clima-BH**](https://github.com/Armando-Schoenstatt/API-Clima-BH) | Java | Weather forecast API activity for Belo Horizonte |
 | [**casa-recepcoes-impacto**](https://github.com/Armando-Schoenstatt/casa-recepcoes-impacto) | HTML | Website for an event venue |
-| [**Trabalho-Mechaninc**](https://github.com/Armando-Schoenstatt/Trabalho-Mechaninc) | Pitch | Graduation pitch project |
+| [**Trabalho-Mechaninc**](https://github.com/Armando-Schoenstatt/Trabalho-Mechaninc) | n/a | Graduation pitch project |
 
 ---
 
-## $ cat roadmap.md
+## Goals
 
 - [x] Finish the IT Technician course at COTEMIG
 - [x] Start Software Engineering at PUC Minas
@@ -58,7 +52,7 @@ status     : looking for my first IT internship
 
 ---
 
-## $ git stats
+## GitHub activity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Armando-Schoenstatt&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Armando-Schoenstatt&layout=compact&theme=tokyonight&hide_border=true)
@@ -67,7 +61,7 @@ status     : looking for my first IT internship
 
 ---
 
-## $ contact --me
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-armando--schoenstatt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-schoenstatt/)
 [![Email](https://img.shields.io/badge/Email-armandoschoenstatt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armandoschoenstatt@gmail.com)
